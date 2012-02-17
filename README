@@ -4,7 +4,7 @@ Hello and welcome to Nu.
 
 I created Nu because I wanted a better way to write software.
 
-I wanted to write with a language as flexible and powerful as Lisp, but I 
+I wanted to write with a language as flexible and powerful as Lips, but I 
 also wanted to be able to work with the many libraries and high-performance
 subsystems written in C, including the ones that I write myself.  So a tight 
 integration with C was my highest priority; that ruled and drove the 
